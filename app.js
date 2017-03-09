@@ -4,7 +4,7 @@ var router = express.Router();//método do express
 var index = require('./routes/index');//chama o index
 router.use(index);//usa o index na router
 
-var users = require('./routes/users');
+var users = require('./routes/list-users');
 router.use(users);
 
 var products = require('./routes/products');
