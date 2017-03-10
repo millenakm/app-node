@@ -13,4 +13,4 @@ router.use(add);
 var products = require('./routes/products');
 router.use(products);
 
-module.exports = router;//retorna o router para o servidor
+module.exports = router; //retorna o router para o servidor

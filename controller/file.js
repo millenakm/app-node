@@ -13,7 +13,22 @@ module.exports = {
 		fs.writeFile(__dirname + '/../'+'db/users.json', dataJson, function(err){
 			if(err)
 				return console.log(err);
-			res.json({'msg':'Usuário inserido com sucesso!'});
+			
+			res.end('Usuário inserido com sucesso!');
 		});
+	},
+	check: function(params, data){
+
+		var checaNome=0;
+
+		for (i in data) {
+    		if(data[i].nome == params.nome){
+    			checaNome = 1;
+    		}
+    		else if(data[i].id == params.id){
+    			params.id++;
+    		}
+		}
+		return checaNome;
 	}
 }
