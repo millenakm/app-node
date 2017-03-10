@@ -1,16 +1,16 @@
-users:[
+[
 	{
 		"id": 1,
-		"name":"fulano",
-		"idade":"19",
-		"email":"fulano@fulano.com.br",
-		"telefone":"99898-0059"
+		"name": "fulano",
+		"idade": 19,
+		"email": "fulano@fulano.com.br",
+		"telefone": "99898-0059"
 	},
 	{
 		"id": 2,
-		"name":"ciclano",
-		"idade":"22",
-		"email":"ciclano@ciclano.com.br",
-		"telefone":"99899-2252"
+		"name": "ciclano",
+		"idade": 22,
+		"email": "ciclano@ciclano.com.br",
+		"telefone": "99899-2252"
 	}
 ]
