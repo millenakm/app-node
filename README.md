@@ -22,7 +22,7 @@ Para inicializar a aplicação use `npm start`
 
 ---
 
-#Listar usuários
+##Listar usuários
 
 Para acessar a lista de usuários: `localhost:5000/list-users`
 
