@@ -18,7 +18,7 @@ O aplicativo consiste em um servidor em que podem ser feitas requisições. É p
 npm install
 ```
 
-Para inicializar a aplicação use `npm start`
+- Para inicializar a aplicação use `npm start`
 ```
 npm start
 ```
