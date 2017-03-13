@@ -12,24 +12,11 @@ O aplicativo consiste em um servidor em que podem ser feitas requisições. É p
 
 ###Instalar
 
-- Instale o `gulp` de forma global. Após, reinicie o console.
-```
-npm install --global gulp-cli
-```
 
 - Instale as dependências.
 ```
 npm install
 ```
-
-- Crie o servidor rodando o seguinte comando.
-```
-gulp
-```
-
----
-
-###Inicializar
 
 Para inicializar a aplicação use `npm start`
 ```
