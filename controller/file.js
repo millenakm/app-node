@@ -25,9 +25,6 @@ module.exports = {
     		if(data[i].nome == params.nome){
     			checaNome = 1;
     		}
-    		else if(data[i].id == params.id){
-    			params.id++;
-    		}
 		}
 		return checaNome;
 	}
