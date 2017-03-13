@@ -21,3 +21,9 @@ O aplicativo consiste em um servidor, em que podem ser feitas requisições. É 
 Para inicializar a aplicação use `npm start`
 
 ---
+
+#Listar usuários
+
+Para acessar a lista de usuários: `localhost:5000/list-users`
+
+---
