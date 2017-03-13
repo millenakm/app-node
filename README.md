@@ -32,6 +32,9 @@ gulp
 ###Inicializar
 
 Para inicializar a aplicação use `npm start`
+```
+npm start
+```
 
 ---
 
