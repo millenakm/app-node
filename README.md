@@ -12,9 +12,7 @@ O aplicativo consiste em um servidor, em que podem ser feitas requisições. É 
 
 Para inicializar a aplicação
 
-'''
-npm start
-'''
+'npm start'
 
 
 
