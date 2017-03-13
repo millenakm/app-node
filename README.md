@@ -6,6 +6,6 @@
 
 ##Sobre
 
-O aplicativo consiste em um servidor, em que podem ser feitas requisições. É possível listar ou adicionar um usuário à lista de usuários.
+O aplicativo consiste em um servidor, em que podem ser feitas requisições. É possível ter acesso à lista de usuários, bem como cadastrar novos usuários.
 
 ---
