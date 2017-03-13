@@ -1,10 +1,10 @@
 #App Node
 
-##Meu primeiro aplicativo em node.js
+*Meu primeiro aplicativo em node.js*
 
 ---
 
-**O que é**
+##Sobre
 
 O aplicativo consiste em ..
 
