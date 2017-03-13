@@ -12,7 +12,7 @@ router.post('/add-users', function(req, res){//rota (localhost:porta/list-users)
 
 		switch(checaNome){
 			case 0:
-				params.idade=Number(params.idade);
+				params.idade = Number(params.idade);
 				data.push(params);
 				var dataJson = JSON.stringify(data);			
 				console.log(data);		
